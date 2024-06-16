@@ -1,0 +1,10 @@
+.asscache
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Build, compile
+build/
+target/
+tmp/
